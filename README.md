@@ -1,2 +1,2 @@
-# Launcher
-This is an opensource launcher designed for the Toontown Online source code.
+# Toontown Infinite Returns
+Official Toontown Infinite Returns Launcher
