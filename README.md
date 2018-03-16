@@ -1,2 +1,2 @@
-# Toontown Infinite Returns
-Official Toontown Infinite Returns Launcher
+# ToonClash Online
+Official ToonClash Online Launcher
