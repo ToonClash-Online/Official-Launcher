@@ -7,3 +7,6 @@ Official ToonClash Online Launcher
 
 ## What will be needed to compile the launcher?
 **You will need to have access to Panda3D or Python_PATH else you will not be able to run .py programs.**
+
+## Files
+* Python - https://www.python.org/ftp/python/3.6.5/python-3.6.5rc1-webinstall.exe
