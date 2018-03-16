@@ -29,7 +29,7 @@ if LOCAL_GAME_DOWNLOAD:
     RESOURCE_LINK = 'http://10.0.0.29/index.php/s/95etFJlljKx7Fj5/download'
 else:
     RESOURCE_FILE = 'RESOURCE_LINKS.yaml'
-    RESOURCE_LINK = 'https://dl.dropboxusercontent.com/s/hkmhm6oe35mwbl1/REMOTE_RESOURCE_LINKS.yaml'
+    RESOURCE_LINK = 'https://toonclash.tk/launcher/resources.yaml'
 
 RESOURCE_NAME = 'resource-links'
 
