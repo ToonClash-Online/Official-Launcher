@@ -157,12 +157,12 @@ class Ui_LauncherWindow(object):
 
     def retranslateUi(self, LauncherWindow):
         _translate = QtCore.QCoreApplication.translate
-        LauncherWindow.setWindowTitle(_translate("LauncherWindow", "Launcher"))
+        LauncherWindow.setWindowTitle(_translate("LauncherWindow", "ToonClash Online Launcher v1.1.0"))
         self.pass_input.setPlaceholderText(_translate("LauncherWindow", "password"))
         self.user_input.setPlaceholderText(_translate("LauncherWindow", "username"))
         self.launcher_state.setText(_translate("LauncherWindow", "Launcher state"))
         self.launcher_status.setText(_translate("LauncherWindow", "Launcher status"))
         self.progress_bar.setFormat(_translate("LauncherWindow", "%p%"))
-        self.pushButton.setText(_translate("LauncherWindow", "Play Now!"))
+        self.pushButton.setText(_translate("LauncherWindow", "Play"))
 
 import resources_rc
