@@ -143,7 +143,7 @@ class Ui_LauncherWindow(object):
         self.pushButton.setObjectName("pushButton")
         self.label = QtWidgets.QLabel(self.login)
         self.label.setGeometry(QtCore.QRect(330, 40, 311, 111))
-        self.label.setStyleSheet("background: url(:/images/images/ttir.png);\n"
+        self.label.setStyleSheet("background: url(:/images/images/tco_logo.png);\n"
 "background-repeat: no-repeat;\n"
 "border-radius: 8;\n"
 "border: 0px solid #cacaca;\n"
