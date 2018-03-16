@@ -14,7 +14,7 @@ class Launcher(LinkParser, GameStarter):
 
     def __init__(self):
         if TESTING_NF:
-            print ('Starting launcher!')
+            print ('Starting ToonClash Online launcher!')
   
         # Initalize our objects
         LinkParser.__init__(self)
