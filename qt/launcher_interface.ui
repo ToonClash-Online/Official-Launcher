@@ -296,7 +296,7 @@ QPushButton:hover {
       </rect>
      </property>
      <property name="styleSheet">
-      <string notr="true">background: url(:/images/images/logo_plain_sampled.png);
+      <string notr="true">background: url(:/images/images/tco_logo.png);
 background-repeat: no-repeat;
 border-radius: 8;
 border: 0px solid #cacaca;
