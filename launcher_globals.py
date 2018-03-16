@@ -54,7 +54,7 @@ LAUNCHER_STATUS_LOGIN = 'Welcome!'
 LAUNCHER_STATUS_GIVE_INPUT = 'You must enter a username and password.'
 LAUNCHER_STATUS_FAILURE = 'Something went wrong while updating.'
 
-    GAME_SERVER = 'disguisedpenguin.onmypc.net'
+    GAME_SERVER = 'gs1.toonclash.tk'
 
 if CURRENT_PLATFORM == 'Linux':
     PYTHON_PATH = '/usr/bin/python2'
