@@ -1,12 +1,8 @@
 # ToonClash Online
 Official ToonClash Online Launcher
 ***
+This launcher is used to load and download ToonClash Online's files.
 
-## How do I compile the launcher?
-**Use py2exe or similar program to compile all of the resources.**
+Private Server ID (PUBLIC):
+gs1.toonclash.tk
 
-## What will be needed to compile the launcher?
-**You will need to have access to Panda3D or Python_PATH else you will not be able to run .py programs.**
-
-## Files
-* Python - https://www.python.org/ftp/python/3.6.5/python-3.6.5rc1-webinstall.exe
