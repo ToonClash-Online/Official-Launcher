@@ -15,7 +15,7 @@ class Ui_LauncherWindow(object):
         font = QtGui.QFont()
         font.setStyleStrategy(QtGui.QFont.PreferDefault)
         LauncherWindow.setFont(font)
-        LauncherWindow.setStyleSheet("background-image: url(:/images/images/pattern_bg.png)")
+        LauncherWindow.setStyleSheet("background-image: url(:./images/ddl_background.png)")
         self.centralwidget = QtWidgets.QWidget(LauncherWindow)
         self.centralwidget.setObjectName("centralwidget")
         self.login = QtWidgets.QFrame(self.centralwidget)
