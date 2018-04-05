@@ -40,7 +40,7 @@
    <string>Launcher</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">background-image: url(:/images/images/pattern_bg.png)</string>
+   <string notr="true">background-image: url(:/images/ddl_background.png)</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QFrame" name="login">
