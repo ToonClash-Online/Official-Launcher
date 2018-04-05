@@ -1,8 +1,6 @@
 <RCC>
   <qresource prefix="images">
     <file>images/20180316_193332.png</file>
-    <file>images/pattern_bg.png</file>
-    <file>images/pattern.png</file>
-    <file>images/toontown_bg.png</file>
+    <file>images/ddl_background.png</file>
   </qresource>
 </RCC>
