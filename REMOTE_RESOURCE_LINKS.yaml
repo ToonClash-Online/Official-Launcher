@@ -1,134 +1,127 @@
 file_p3d_win:
     platform: 'Windows'
-    url: ''
-    path: 'base'
-    name: 'panda3d'
+    url: 'https://www.dropbox.com/s/nbtugs5lkt13ppr/panda.zip?dl=1'
+    path: 'base/panda'
+    name: 'panda'
     extension: '.zip'
     archive: True
-    hash: ''
 
-file_client:
-    platform: 'all'
-    url: ''
+file_python_path:
+    platform: 'All'
+    url: 'https://www.dropbox.com/s/nuvaskspxp4ffre/PYTHON_PATH?dl=1'
     path: 'base'
-    name: 'client'
+    name: 'PYTHON_PATH'
+    extension: ''
+    archive: False
+
+file_base:
+    platform: 'all'
+    url: 'https://www.dropbox.com/s/ukhsxd1qzj7l13u/base.zip?dl=1'
+    path: 'base'
+    name: 'base'
     extension: '.zip'
     archive: True
-    hash: ''
 
 file_phase_3:
     platform: 'all'
-    url: ''
-    path: 'resources'
+    url: 'https://www.dropbox.com/s/kqz9ezc5cmvm5a9/phase_3.mf?dl=1'
+    path: 'base/resources'
     name: 'phase_3'
     extension: '.mf'
     archive: False
-    hash: ''
 
 file_phase_35:
     platform: 'all'
-    url: ''
-    path: 'resources'
+    url: 'https://www.dropbox.com/s/xr6j2phjc30qsnq/phase_3.5.mf?dl=1'
+    path: 'base/resources'
     name: 'phase_3.5'
     extension: '.mf'
     archive: False
-    hash: ''
 
 file_phase_4:
     platform: 'all'
-    url: ''
-    path: 'resources'
+    url: 'https://www.dropbox.com/s/u94hv7qbkd66vt1/phase_4.mf?dl=1'
+    path: 'base/resources'
     name: 'phase_4'
     extension: '.mf'
     archive: False
-    hash: ''
 
 file_phase_5:
     platform: 'all'
-    url: ''
-    path: 'resources'
+    url: 'https://www.dropbox.com/s/exvzl19e4yylwx7/phase_5.mf?dl=1'
+    path: 'base/resources'
     name: 'phase_5'
     extension: '.mf'
     archive: False
-    hash: ''
 
 file_phase_55:
     platform: 'all'
-    url: ''
-    path: 'resources'
+    url: 'https://www.dropbox.com/s/t6fm6vik7xrih1i/phase_5.5.mf?dl=1'
+    path: 'base/resources'
     name: 'phase_5.5'
     extension: '.mf'
     archive: False
-    hash: ''
 
 file_phase_6:
     platform: 'all'
-    url: ''
-    path: 'resources'
+    url: 'https://www.dropbox.com/s/dh6z10b76ymfp9c/phase_6.mf?dl=1'
+    path: 'base/resources'
     name: 'phase_6'
     extension: '.mf'
     archive: False
-    hash: ''
 
 file_phase_7:
     platform: 'all'
-    url: ''
-    path: 'resources'
+    url: 'https://www.dropbox.com/s/rfgp8wqmmo2u243/phase_7.mf?dl=1'
+    path: 'base/resources'
     name: 'phase_7'
     extension: '.mf'
     archive: False
-    hash: ''
 
 file_phase_8:
     platform: 'all'
-    url: ''
-    path: 'resources'
+    url: 'https://www.dropbox.com/s/x3stutp015z173b/phase_8.mf?dl=1'
+    path: 'base/resources'
     name: 'phase_8'
     extension: '.mf'
     archive: False
-    hash: ''
 
 file_phase_9:
     platform: 'all'
-    url: ''
-    path: 'resources'
+    url: 'https://www.dropbox.com/s/of6cix3x6eyrgos/phase_9.mf?dl=1'
+    path: 'base/resources'
     name: 'phase_9'
     extension: '.mf'
     archive: False
-    hash: ''
 
 file_phase_10:
     platform: 'all'
-    url: ''
-    path: 'resources'
+    url: 'https://www.dropbox.com/s/9qk4u0rtqkhlq7j/phase_10.mf?dl=1'
+    path: 'base/resources'
     name: 'phase_10'
     extension: '.mf'
     archive: False
-    hash: ''
 
 file_phase_11:
     platform: 'all'
-    url: ''
-    path: 'resources'
+    url: 'https://www.dropbox.com/s/lg060snpm62zcme/phase_11.mf?dl=1'
+    path: 'base/resources'
     name: 'phase_11'
     extension: '.mf'
     archive: False
-    hash: ''
 
 file_phase_12:
     platform: 'all'
-    url: ''
-    path: 'resources'
+    url: 'https://www.dropbox.com/s/kniwmv0db08o09y/phase_12.mf?dl=1'
+    path: 'base/resources'
     name: 'phase_12'
     extension: '.mf'
     archive: False
-    hash: ''
-
+    
 file_phase_13:
     platform: 'all'
-    url: ''
-    path: 'resources'
+    url: 'https://www.dropbox.com/s/ytm7u1z91ybnjg9/phase_13.mf?dl=1'
+    path: 'base/resources'
     name: 'phase_13'
     extension: '.mf'
     archive: False
-    hash: ''
